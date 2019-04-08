@@ -1,0 +1,9 @@
+Package: ISMaintenance
+Title: A faux package that checks raw files in ImmuneSpace
+Version: 0.1.0
+Author: Ju Yeong Kim
+Maintainer: Ju Yeong Kim <jkim2345@fredhutch.org>
+Description: A faux package that checks raw files in ImmuneSpace
+License: What license it uses
+Encoding: UTF-8
+LazyData: true
